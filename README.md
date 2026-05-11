@@ -36,9 +36,9 @@ source venv/bin/activate
 
 4. Instalarea dependențelor
 
-Cu mediul activat, instalează librăriile necesare:
+Cu mediul activat, instalează toate librăriile necesare dintr-o singură comandă:
 
-pip install pandas numpy matplotlib ipykernel
+pip install -r requirements.txt
 
 5. Start!
 
